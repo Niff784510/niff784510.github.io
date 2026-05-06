@@ -3,7 +3,7 @@
 ds.settings:
 (
 version=1
-screen.mode=43
+screen.mode=full
 can.scroll=false
 )
 \If\text\
