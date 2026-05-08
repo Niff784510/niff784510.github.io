@@ -17,7 +17,7 @@ button:
 (
 skin=https://niff2012.github.io/assets/site/logo.svg
 &skin.touching=https://niff2012.github.io/assets/site/logo.svg
-&x=130
+&x=-130
 &y=105
 &size=300
 &if.clicked=noting
